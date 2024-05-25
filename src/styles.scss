@@ -77,16 +77,28 @@ $grey-background: #282828;
   box-sizing: border-box;
 }
 
-h2 {
-  font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
-    sans-serif;
-  color: #ffff;
-  font-size: 3.5rem;
-  font-weight: 200;
+header{
+  border: 1px solid #121212;
+  background-color: #121212;
   display: flex;
   justify-content: center;
-  margin: 4rem 0rem;
+  gap: 1rem;
+  img{
+    width: 3rem;
+  }
+  h2 {
+    font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
+      sans-serif;
+    color: #ffff;
+    font-size: 3.5rem;
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    margin: 4rem 0rem;
+  }
 }
+
+
 
 .category-intro {
   margin: 5rem 15rem;

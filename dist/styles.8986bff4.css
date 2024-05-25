@@ -22,13 +22,15 @@
 }
 
 .home-page-line1 {
-  font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
+    sans-serif;
   color: white;
   font-size: 1.5rem;
 }
 
 .home-page-line2 {
-  font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
+    sans-serif;
   color: white;
   font-size: 4rem;
   margin: 2rem 0;
@@ -54,7 +56,11 @@
 .button-entrar:hover {
   background-position: 0;
   transition: background 0.3s ease;
-  background-image: linear-gradient(to right, transparent 50%, rgb(233, 127, 35) 50%);
+  background-image: linear-gradient(
+    to right,
+    transparent 50%,
+    rgb(233, 127, 35) 50%
+  );
   background-size: 200% 100%;
   background-position: 100%;
 }
@@ -66,8 +72,19 @@
   box-sizing: border-box;
 }
 
-h2 {
-  font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+header {
+  border: 1px solid #121212;
+  background-color: #121212;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+header img {
+  width: 3rem;
+}
+header h2 {
+  font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
+    sans-serif;
   color: white;
   font-size: 3.5rem;
   font-weight: 200;
@@ -116,6 +133,26 @@ footer {
   padding: 1rem;
 }
 
+.footer-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin: 1.2rem auto;
+  img {
+    width: 1.5rem;
+  }
+  a {
+    text-decoration: none;
+    color: #ffff;
+    font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2rem;
+  }
+  a:hover {
+    color: rgb(233, 127, 35);
+  }
+}
+
 .footer-text {
   font-family: "Open-Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   margin: 0 25rem;
@@ -154,12 +191,47 @@ footer {
   color: white;
 }
 
+@media (max-width: 768px) {
+  header {
+    border: 1px solid #121212;
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  header img {
+    width: 2rem;
+  }
+  header h2 {
+    font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
+      sans-serif;
+    color: white;
+    font-size: 2rem;
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    margin: 4rem 0rem;
+  }
+  .biography-display {
+    flex-direction: row;
+  }
+
+  .footer-links {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .footer-option {
+    flex-direction: row;
+  }
+}
+
 .albums-container {
   display: flex;
   flex-direction: column;
   width: 60%;
   gap: 3rem;
-  margin: 2rem auto;
+  margin: 5rem 25rem;
 }
 
 .album-item {
@@ -181,22 +253,26 @@ footer {
   color: white;
 }
 
-.text-impacto {
+.impact-container {
   width: 60%;
-  margin: 0 auto 5rem auto;
+  margin: 5rem 25rem;
 }
-.text-impacto p {
+.impact-container p {
   font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: white;
   font-size: 1.2rem;
   text-align: justify;
 }
-.text-impacto iframe {
+.impact-container iframe {
   margin: 4rem auto;
   width: 800px;
   height: 450px;
   display: flex;
   justify-content: center;
+}
+
+.tour-container {
+  margin-top: 5rem;
 }
 
 .tour-intro {
@@ -232,6 +308,10 @@ footer {
 
 .tour-table td:last-child {
   text-align: right;
+}
+
+.bibliography-container {
+  margin: 5rem;
 }
 
 .bibliography-disclaimer {
