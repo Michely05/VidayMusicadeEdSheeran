@@ -172,7 +172,7 @@ module.exports = reloadCSS;
 var reloadCSS = require('_css_loader');
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"./..\\assets\\fonts\\Moms_typewriter.ttf":[["Moms_typewriter.50c41a6b.ttf","../assets/fonts/Moms_typewriter.ttf"],"../assets/fonts/Moms_typewriter.ttf"],"./..\\assets\\fonts\\OpenSans.ttf":[["OpenSans.e8907226.ttf","../assets/fonts/OpenSans.ttf"],"../assets/fonts/OpenSans.ttf"],"./..\\assets\\img\\welcome-banner.jpg":[["welcome-banner.5d84e534.jpg","../assets/img/welcome-banner.jpg"],"../assets/img/welcome-banner.jpg"],"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./..\\assets\\fonts\\Moms_typewriter.ttf":[["Moms_typewriter.50c41a6b.ttf","../assets/fonts/Moms_typewriter.ttf"],"../assets/fonts/Moms_typewriter.ttf"],"./..\\assets\\fonts\\OpenSans.ttf":[["OpenSans.e8907226.ttf","../assets/fonts/OpenSans.ttf"],"../assets/fonts/OpenSans.ttf"],"./..\\assets\\img\\welcome-banner.webp":[["welcome-banner.1fe1dc45.webp","../assets/img/welcome-banner.webp"],"../assets/img/welcome-banner.webp"],"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
