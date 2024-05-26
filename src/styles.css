@@ -17,25 +17,39 @@
 
 .home-page-section {
   position: absolute;
-  top: 24rem;
-  left: 10rem;
+  width: 50rem;
+  top: 13rem;
+  left: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-.home-page-line1 {
+h1 {
   font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
     sans-serif;
   color: white;
+  font-weight: 200;
   font-size: 1.5rem;
+  margin-bottom: 0;
 }
 
 .home-page-line2 {
-  font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
-    sans-serif;
-  color: white;
-  font-size: 4rem;
-  margin: 2rem 0;
+  font-size: 3.5rem;
+  font-weight: 200;
+  margin: 1rem 0;
   display: flex;
   justify-content: center;
+}
+
+.home-page-intro {
+  margin: 0 4rem;
+  font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  font-size: 1.3rem;
+  line-height: 2rem;
+  text-align: justify;
 }
 
 .button-entrar {
@@ -48,7 +62,7 @@
   color: white;
   border: 3px solid white;
   display: inline-block;
-  margin-left: 8rem;
+  margin-top: 1rem;
   text-decoration: none;
   cursor: pointer;
 }
@@ -91,15 +105,6 @@ header h2 {
   display: flex;
   justify-content: center;
   margin: 4rem 0rem;
-}
-
-.category-intro {
-  margin: 5rem 15rem;
-  font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: white;
-  font-size: 1.2rem;
-  line-height: 2rem;
-  text-align: justify;
 }
 
 .grid-container-category {
@@ -189,41 +194,6 @@ footer {
 .biography-image figcaption {
   font-family: "Open-Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: white;
-}
-
-@media (max-width: 768px) {
-  header {
-    border: 1px solid #121212;
-    background-color: #121212;
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-  }
-  header img {
-    width: 2rem;
-  }
-  header h2 {
-    font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
-      sans-serif;
-    color: white;
-    font-size: 2rem;
-    font-weight: 200;
-    display: flex;
-    justify-content: center;
-    margin: 4rem 0rem;
-  }
-  .biography-display {
-    flex-direction: row;
-  }
-
-  .footer-links {
-    flex-direction: row;
-    justify-content: center;
-  }
-
-  .footer-option {
-    flex-direction: row;
-  }
 }
 
 .albums-container {
@@ -356,4 +326,393 @@ footer {
   margin: 1rem;
 }
 
-/*# sourceMappingURL=styles.css.map */
+@media (max-width: 768px) {
+  .home-page-background {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  .home-page-background::before {
+    /* content: ""; */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../assets/img/welcome-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.7;
+  }
+  .home-page-section {
+    border: 1px solid red;
+    position: absolute;
+    width: 80%;
+    top: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  h1 {
+    font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
+      sans-serif;
+    color: white;
+    font-weight: 200;
+    font-size: 1.2rem;
+    margin-bottom: 0;
+  }
+
+  .home-page-line2 {
+    font-size: 2.5rem;
+    font-weight: 200;
+    margin: 1rem 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .home-page-intro {
+    margin: 0;
+    font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 1rem;
+    line-height: 2rem;
+    text-align: justify;
+  }
+
+  .button-entrar {
+    font-family: "Open-Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 0.1rem;
+    padding: 0.7rem 3.5rem;
+    background-color: #282828;
+    color: white;
+    border: 3px solid white;
+    display: inline-block;
+    margin-top: 1rem;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .button-entrar:hover {
+    background-position: 0;
+    transition: background 0.3s ease;
+    background-image: linear-gradient(
+      to right,
+      transparent 50%,
+      rgb(233, 127, 35) 50%
+    );
+    background-size: 200% 100%;
+    background-position: 100%;
+  }
+
+  .plain-background {
+    background-color: #282828;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  header {
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  header img {
+    width: 3rem;
+  }
+
+  header h2 {
+    font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
+      sans-serif;
+    color: white;
+    font-size: 3.5rem;
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+  }
+
+  .grid-container-category {
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+  }
+
+  .grid-item {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .grid-item img {
+    width: 250px;
+    height: 250px;
+    transition: filter 0.3s ease;
+    filter: grayscale(100%);
+  }
+
+  .grid-item:hover img {
+    filter: grayscale(0%);
+  }
+
+  footer {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+  }
+
+  .footer-links {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    img {
+      width: 1.5rem;
+    }
+    a {
+      text-decoration: none;
+      color: #ffff;
+      font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 1rem;
+    }
+    a:hover {
+      color: rgb(233, 127, 35);
+    }
+  }
+  .footer-option {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .footer-text {
+    font-family: "Open-Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    font-size: 0.7rem;
+    text-align: center;
+  }
+
+  .biography-display {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 2rem 1rem;
+    justify-content: center;
+  }
+
+  .biography-text {
+    order: 2;
+    font-family: "Open-Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 1.1rem;
+    text-align: justify;
+    margin: 0 2rem;
+  }
+  .biography-text p {
+    margin-bottom: 1.5rem;
+  }
+
+  .biography-image {
+    order: 1;
+  }
+  .biography-image img {
+    max-width: 100%;
+  }
+  .biography-image figcaption {
+    font-family: "Open-Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+  }
+
+  .albums-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    gap: 3rem;
+    margin: 2rem auto;
+  }
+
+  .album-item {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.302);
+  }
+  .album-item img {
+    width: 250px;
+    height: 250px;
+  }
+  .album-item p {
+    display: flex;
+    align-items: center;
+    margin: 2rem;
+    margin-top: 0;
+    font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    text-align: justify;
+    color: white;
+  }
+
+  .impact-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    width: 80%;
+  }
+  .impact-container p {
+    font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 1rem;
+    text-align: justify;
+  }
+  .impact-container iframe {
+    margin: 2rem 0;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .tour-container {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .tour-intro {
+    font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 1.1rem;
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+  }
+
+  .tour-table {
+    color: white;
+    margin: 4rem 2rem;
+    font-size: 20px;
+    font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    width: 70%;
+    border-collapse: collapse;
+  }
+
+  .tour-table th,
+  .tour-table td {
+    padding: 0.8rem;
+    text-align: left;
+    font-size: 1rem;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    line-height: 1.2;
+  }
+
+  .tour-table td:nth-child(3) {
+    text-align: center;
+  }
+
+  .tour-table td:last-child {
+    text-align: right;
+  }
+
+  .bibliography-container {
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .bibliography-disclaimer {
+    background-color: rgba(0, 0, 0, 0.302);
+    width: 70%;
+    margin: auto;
+    margin-bottom: 1rem;
+    padding: 2rem;
+  }
+  .bibliography-disclaimer p {
+    font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    color: white;
+  }
+  .bibliography-disclaimer ul {
+    color: white;
+  }
+  .bibliography-disclaimer li {
+    margin-bottom: 1rem;
+  }
+  .bibliography-disclaimer a {
+    text-decoration: none;
+    font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 1rem;
+  }
+  .bibliography-disclaimer a:hover {
+    color: rgb(233, 127, 35);
+  }
+
+  .thank-you-message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .thank-you-message p {
+    margin: 1rem;
+    font-family: "Open Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5rem;
+  }
+  .thank-you-message img {
+    width: 12rem;
+    margin: 1rem;
+  }
+  header {
+    border: 1px solid #121212;
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  header img {
+    width: 2rem;
+  }
+  header h2 {
+    font-family: "moms-typewriter", "Segoe UI", Tahoma, Geneva, Verdana,
+      sans-serif;
+    color: white;
+    font-size: 2rem;
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    margin: 4rem 0rem;
+  }
+  .biography-display {
+    flex-direction: row;
+  }
+
+  .footer-links {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .footer-option {
+    flex-direction: row;
+  }
+}
