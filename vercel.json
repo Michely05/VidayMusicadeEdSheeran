@@ -1,7 +1,14 @@
 {
+  "version": 2,
+  "builds": [
+    {
+      "src": "src/index.html",
+      "use": "@vercel/static"
+    }
+  ],
   "headers": [
     {
-      "source": "/welcome-banner.webp",
+      "source": "/(.*).(js|css|webp)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -10,11 +17,11 @@
       ]
     },
     {
-      "source": "/index.636288ac.css",
+      "source": "/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
+          "value": "public, max-age=3600, must-revalidate"
         }
       ]
     }
