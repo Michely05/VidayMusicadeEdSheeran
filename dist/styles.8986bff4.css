@@ -1,10 +1,12 @@
 @font-face {
   font-family: "moms-typewriter";
   src: url("/Moms_typewriter.50c41a6b.ttf") format("truetype");
+  font-display: swap;
 }
 @font-face {
   font-family: "Open-Sans";
   src: url(/OpenSans.e8907226.ttf);
+  font-display: swap;
 }
 
 @keyframes shadow-pop-tr {
