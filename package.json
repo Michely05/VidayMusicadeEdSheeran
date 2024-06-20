@@ -2,8 +2,8 @@
   "name": "my-project",
   "source": "src/index.html",
   "scripts": {
-    "start": "npm-run-all clean parcel:dev",
-    "build": "npm-run-all clean parcel:build",
+    "start": "npm-run-all clean parcel:main",
+    "build": "parcel build index.html",
     "parcel:dev": "parcel",
     "parcel:build": "parcel build",
     "clean": "rimraf dist .parcel-cache"
