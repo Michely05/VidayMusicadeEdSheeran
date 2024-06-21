@@ -1,5 +1,5 @@
-12629
-104C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\category.html133634714981192093 0
+12630
+104C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\category.html133634717862044847 0
 122C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-errors\test\index.js133633704411892421 0
 131C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\source-map\dist\types.js133633704414928560 0
 128C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\rimraf\dist\esm\retry-busy.js133633704415679111 0
@@ -28,7 +28,7 @@
 105C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@babel133633704396613801 1
 130C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\typed-array-byte-offset\.github133633704413880113 1
 111C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\spdx-correct133633704411183377 1
-90C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist133634714981322071 1
+90C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist133634717862180179 1
 92C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\.cache133632667044761779 1
 135C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2022\CloneArrayBuffer.js133633704427284101 0
 140C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\function.prototype.name\implementation.js133633704412686659 0
@@ -94,7 +94,7 @@
 103C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\sharp.config.json133612067715416151 0
 166C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-utils.h133117882010000000 0
 135C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\regexp.prototype.flags\test\tests.js133633704414319013 0
-127C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography-image-medium.ded11d19.webp133634714981092090 0
+127C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography-image-medium.ded11d19.webp133634717862004681 0
 121C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\strip-ansi-cjs\license133633704408701807 0
 139C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\csso\lib\restructure\3-disjoinRuleset.js133633704419301044 0
 103C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\package-lock.json133633711724956552 0
@@ -169,7 +169,7 @@
 139C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\wrap-ansi-cjs\node_modules\color-convert133633704412646667 1
 132C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\tar-fs\test\fixtures\b\a\test.txt133633704748511997 0
 95C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\.cache\84133579358340770158 1
-104C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\src\biography.html133634715002064542 0
+104C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\src\biography.html133634717894866819 0
 135C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2020\BigInt\leftShift.js133633704435731816 0
 142C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2017\CreateListFromArrayLike.js133633704428339695 0
 143C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\serviceworkers.js133633704431967964 0
@@ -179,7 +179,7 @@
 95C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\.cache\2a133579358340288298 1
 141C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\codeframe\node_modules\ansi-styles133633704411692166 1
 121C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\commander\CHANGELOG.md133633704412400753 0
-109C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\impact.a029f31f.js133634714980992071 0
+109C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\impact.a029f31f.js133634717862044847 0
 148C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs133633704428552324 0
 119C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\svgo\lib\svgo\coa.js133633704417217235 0
 111C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite133633704434408629 1
@@ -1031,7 +1031,7 @@
 151C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\wrap-ansi-cjs\node_modules\string-width\package.json133633704410749190 0
 128C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\utility-types\dist\index.d.ts133633704415291805 0
 111C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\memorystream133633704412561563 1
-100C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\tour.html133634714981092090 0
+100C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\tour.html133634717861844492 0
 136C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2022\Number\bitwiseXOR.js133633704425881416 0
 143C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\has-property-descriptors\.github\FUNDING.yml133633704413471156 0
 124C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\shell-quote\test\parse.js133633704414349016 0
@@ -1345,7 +1345,7 @@
 146C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\wrap-ansi-cjs\node_modules\ansi-styles\index.js133633704410151050 0
 115C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\spdx-license-ids133633704411312828 1
 144C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\resolve\test\resolver\same_names\foo\index.js133633704420997254 0
-127C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\vida-y-musica-ed-sheeran.59712999.js133634714981102090 0
+127C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\vida-y-musica-ed-sheeran.59712999.js133634717861844492 0
 143C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\string.prototype.trimstart\implementation.js133633704412173449 0
 124C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2023\clamp.js133633704427106666 0
 124C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\npm-run-all\docs\run-s.md133633704415689129 0
@@ -4026,7 +4026,7 @@
 128C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\glob\dist\esm\walker.d.ts.map133633704419230639 0
 127C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2015\MakeDate.js133633704435886905 0
 120C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\foreground-child\dist133633704411123388 1
-119C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\welcome-banner.8d1c4f98.webp133634714981102090 0
+119C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\welcome-banner.8d1c4f98.webp133634717862044847 0
 151C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-select\node_modules\domutils\lib\manipulation.js133633704414166200 0
 116C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\lmdb\util\when.js133633704425237955 0
 175C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\deprecated\gcompletion.h133117882010000000 0
@@ -4570,7 +4570,7 @@
 122C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\ansi-regex\package.json133633704410582980 0
 125C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\set-function-length\.nycrc133633704409339035 0
 117C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\chalk\package.json133633704408872128 0
-126C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography-image-large.4c447341.webp133634714981232069 0
+126C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography-image-large.4c447341.webp133634717862064745 0
 140C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\rimraf\dist\commonjs\default-tmp.d.ts.map133633704418039060 0
 131C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\set-function-length\package.json133633704412198507 0
 126C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\object.assign\test\index.js133633704413990720 0
@@ -4608,7 +4608,7 @@
 114C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\rimraf\dist\esm133633704424962486 1
 128C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\rimraf\dist\esm\bin.d.mts.map133633704417497739 0
 126C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\rimraf\dist\esm\bin.mjs.map133633704417717188 0
-119C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\Moms_typewriter.ed10500c.ttf133634714981242084 0
+119C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\Moms_typewriter.ed10500c.ttf133634717862084871 0
 135C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\rimraf\dist\esm\default-tmp.d.ts.map133633704418179270 0
 129C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\rimraf\dist\esm\default-tmp.js133633704411474281 0
 135C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-tree\cjs\syntax\node\AnPlusB.cjs133633704411509407 0
@@ -4738,6 +4738,7 @@
 136C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\rimraf\dist\commonjs\rimraf-manual.js133633704415799950 0
 137C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\css-sel3.js133633704427061480 0
 122C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\glob\dist\esm\bin.d.mts133633704420066661 0
+126C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\assets\img\biography-image-small-v2.webp133634706135560803 0
 140C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\rimraf\dist\commonjs\rimraf-manual.js.map133633704422668946 0
 145C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\rimraf\dist\commonjs\rimraf-move-remove.js.map133633704422870247 0
 130C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\glob\dist\commonjs\index.js.map133633704417642095 0
@@ -5296,7 +5297,7 @@
 125C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\parent-module\package.json133633704408746987 0
 122C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\is-symbol\.eslintignore133633704409298916 0
 132C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2021\SameValueZero.js133633704439082639 0
-118C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\banner-impact.39deb068.webp133634714981232069 0
+118C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\banner-impact.39deb068.webp133634717861739281 0
 122C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\parent-module\readme.md133633704411261523 0
 118C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\parcel\node_modules133633704396653809 1
 115C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\parcel\README.md133633704413310308 0
@@ -5973,7 +5974,7 @@
 136C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2020\Number\bitwiseXOR.js133633704425831426 0
 123C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\5\MakeDay.js133633704436113594 0
 111C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\lmdb\open.js133633704425132831 0
-113C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\albums.ed5a059f.js.map133634714981302068 0
+113C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\albums.ed5a059f.js.map133634717862160175 0
 130C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\regions\MD.js133633704430029378 0
 111C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\lmdb\read.js133633704425197892 0
 156C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\walk.cjs133633704424827182 0
@@ -6539,7 +6540,7 @@
 148C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\htmlnano\lib\modules\normalizeAttributeValues.mjs133633704423840802 0
 157C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js133633704430049363 0
 156C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-select\node_modules\domutils\lib\esm\stringify.js.map133633704418633713 0
-118C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\banner-albums.b047b3d4.webp133634714981082284 0
+118C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\banner-albums.b047b3d4.webp133634717862064745 0
 138C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\htmlnano\lib\modules\removeComments.cjs133633704416237742 0
 142C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\htmlnano\lib\modules\removeOptionalTags.cjs133633704416438348 0
 151C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\helpers\cjs\_class_private_field_loose_base.cjs133633704416378053 0
@@ -8192,7 +8193,7 @@
 132C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\utils\test\config.test.js133633704414499768 0
 129C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\helpers\src\_inherits.mjs133633704428819396 0
 122C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2021\tables133633704442699998 1
-124C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\banner-bibliography.f8db6cf8.webp133634714981092090 0
+124C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\banner-bibliography.f8db6cf8.webp133634717862004681 0
 149C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\reporter-dev-server\src\templates\404.html133633704410969457 0
 137C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2021\TestIntegrityLevel.js133633704440561335 0
 134C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2021\thisNumberValue.js133633704440676500 0
@@ -8346,7 +8347,7 @@
 127C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2020\IsRegExp.js133633704434719481 0
 121C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-tree\cjs\tokenizer133633704424962486 1
 131C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2015\DateFromTime.js133633704428582306 0
-116C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\banner-tour.c4e77516.webp133634714981152074 0
+116C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\banner-tour.c4e77516.webp133634717861884501 0
 133C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2020\IsStringPrefix.js133633704434940143 0
 129C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\es-abstract\2018\SplitMatch.js133633704439944076 0
 124C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\core\lib\index.js133633704422628932 0
@@ -9064,7 +9065,7 @@
 128C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\electron-to-chromium\index.js133633704413370324 0
 127C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\electron-to-chromium\LICENSE133633704410719187 0
 129C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\electron-to-chromium\README.md133633704415198879 0
-111C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\tour.0ea18c61.js.map133634714981262069 0
+111C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\tour.0ea18c61.js.map133634717862064745 0
 133C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\electron-to-chromium\versions.json133633704415063741 0
 123C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\eastasianwidth\README.md133633704410654067 0
 130C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\dotenv-expand\dotenv-expand.png133633704409429465 0
@@ -9457,7 +9458,7 @@
 130C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-tree\lib\syntax\node\CDO.js133633704425398211 0
 147C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\helpers\cjs\_class_apply_descriptor_get.cjs133633704415178883 0
 137C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-tree\lib\syntax\node\Combinator.js133633704425458889 0
-119C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\bibliography.941995c0.js.map133634714981262069 0
+119C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\bibliography.941995c0.js.map133634717862064745 0
 133C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\node-resolver-core\LICENSE133633704408766968 0
 138C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-tree\lib\syntax\node\Declaration.js133633704425841404 0
 133C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\codeframe\lib\codeframe.js133633704416237742 0
@@ -9719,7 +9720,7 @@
 139C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-select\lib\pseudo-selectors\index.js133633704415128875 0
 143C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-select\lib\pseudo-selectors\index.js.map133633704419709925 0
 143C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133633704423256853 0
-105C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography.html133634714981092090 0
+105C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography.html133634717861844492 0
 141C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-select\lib\pseudo-selectors\pseudos.js133633704415407320 0
 144C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-select\lib\pseudo-selectors\subselects.js133633704415901238 0
 133C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\css-select\lib\esm\attributes.d.ts133633704422309601 0
@@ -9957,7 +9958,7 @@
 137C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\bloburls.js133633704422553765 0
 135C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\brotli.js133633704423151715 0
 133C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\calc.js133633704423710306 0
-108C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\bibliography.html133634714980982646 0
+108C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\bibliography.html133634717862024752 0
 140C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\canvas-text.js133633704423770306 0
 135C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\canvas.js133633704423800321 0
 146C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\chacha20-poly1305.js133633704423975940 0
@@ -10102,7 +10103,7 @@
 152C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133633704427826462 0
 139C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\decorators.js133633704427866433 0
 136C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\details.js133633704427876466 0
-112C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\OpenSans.05ab696e.ttf133634714981302068 0
+112C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\OpenSans.05ab696e.ttf133634717862150178 0
 146C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\deviceorientation.js133633704427876466 0
 145C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\devicepixelratio.js133633704427886440 0
 135C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\hidden.js133633704428829379 0
@@ -10318,7 +10319,7 @@
 142C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\vector-effect.js133633704433698282 0
 150C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\core\node_modules\semver\functions\clean.js133633704415497324 0
 138C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\vibration.js133633704433718945 0
-121C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\banner-biography.dcc13613.webp133634714981102090 0
+121C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\banner-biography.dcc13613.webp133634717861884501 0
 134C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\video.js133633704433728952 0
 140C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\videotracks.js133633704433728952 0
 145C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\caniuse-lite\data\features\view-transitions.js133633704433738961 0
@@ -10392,7 +10393,7 @@
 95C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\.cache\45133632667037030919 1
 124C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\browserslist\package.json133633704414858328 0
 120C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\browserslist\parse.js133633704414632213 0
-116C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography.c35c2218.js.map133634714981262069 0
+116C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography.c35c2218.js.map133634717862064745 0
 114C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\braces\index.js133633704411902402 0
 113C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\braces\LICENSE133633704408736968 0
 142C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\utils\test\input\config\config.json133633704423010939 0
@@ -10480,7 +10481,7 @@
 123C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\packager-css\lib133633704410065990 1
 125C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@trysound\sax\package.json133633704411030286 0
 123C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@trysound\sax\lib\sax.js133633704410412097 0
-131C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\vida-y-musica-ed-sheeran.59712999.js.map133634714981272091 0
+131C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\vida-y-musica-ed-sheeran.59712999.js.map133634717862064745 0
 108C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\core133633704415966361 1
 166C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two\package.json133633704426541000 0
 123C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\core-win32-x64-msvc133633704413708957 1
@@ -10524,7 +10525,7 @@
 144C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\helpers\_\_class_private_field_loose_key133633704427041483 1
 138C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\helpers\_\_class_private_field_set133633704427071480 1
 140C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\helpers\_\_class_private_method_init133633704427136683 1
-102C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\impact.html133634714981192093 0
+102C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\impact.html133634717862044847 0
 139C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\helpers\_\_class_private_method_set133633704427166648 1
 150C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\helpers\_\_class_static_private_field_spec_set133633704427319258 1
 124C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@swc\helpers\_\_construct133633704427399221 1
@@ -10933,7 +10934,7 @@
 153C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\workers\test\integration\workerfarm\console.js133633704413900127 0
 153C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\workers\test\integration\workerfarm\ipc-pid.js133633704415956365 0
 149C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133633704416061488 0
-108C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\index.44983732.js133634714981192093 0
+108C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\index.44983732.js133634717862044847 0
 156C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133633704416318028 0
 160C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133633704417207261 0
 125C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\workers\src\bus.js133633704412028232 0
@@ -10969,7 +10970,7 @@
 143C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\workers\lib\process\ProcessWorker.js133633704416919252 0
 132C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\watcher-win32-x64\LICENSE133633704408756978 0
 137C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\watcher-win32-x64\package.json133633704409419478 0
-117C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\album-divide.c32f18c8.webp133634714981232069 0
+117C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\album-divide.c32f18c8.webp133634717861739281 0
 134C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\watcher-win32-x64\README.md133633704410709201 0
 137C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\watcher-win32-x64\watcher.node133633704413970737 0
 125C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\watcher\index.d.ts133633704412731871 0
@@ -11219,7 +11220,7 @@
 150C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\transformer-js\node_modules\semver\index.js133633704416888072 0
 150C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\transformer-js\node_modules\semver\internal133633704419507092 1
 152C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\transformer-js\node_modules\semver\preload.js133633704418789004 0
-109C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\index.4d663569.css133634714981082284 0
+109C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\index.4d663569.css133634717862044847 0
 148C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\transformer-js\node_modules\semver\ranges133633704420927256 1
 151C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\transformer-js\node_modules\semver\README.md133633704421283340 0
 155C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\transformer-js\node_modules\semver\ranges\gtr.js133633704416358035 0
@@ -11925,7 +11926,7 @@
 176C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\AttributeSelector.js133633704414379022 0
 164C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\color.js133633704415053736 0
 164C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\index.js133633704417347497 0
-120C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\album-substract.50a16fbe.webp133634714981082284 0
+120C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\album-substract.50a16fbe.webp133634717862004681 0
 162C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Url.js133633704419039555 0
 164C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Value.js133633704419577146 0
 178C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\background.js133633704414672217 0
@@ -12430,7 +12431,7 @@
 121C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\OpenSans.05ab696e.ttf.27796.5a133634389413276910 0
 112C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\OpenSans.b9910659.ttf133633704793900052 0
 98C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\assets\fonts133632667057595212 1
-96C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\assets\img133634714980103029 1
+96C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\assets\img133634717861059995 1
 116C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\assets\img\album-multiply.webp133612095983887047 0
 112C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\assets\img\album-plus.webp133612095996950682 0
 121C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\assets\img\banner-bibliography.webp133612093674936858 0
@@ -12610,21 +12611,21 @@
 131C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\.cache\07\27166553c01f464265fb0bc99a2a1e.json133612100872277267 0
 131C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\.cache\07\c16d53de125ffc15163df0a170e9da.json133633703733243128 0
 124C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\assets\img\biography-image-medium.webp133612211893452649 0
-123C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\assets\img\biography-image-small.webp133634706135560803 0
-118C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\guitar-favicon.47ed29a6.svg133634714980802006 0
-126C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography-image-small.6af734c8.webp133634714981082284 0
-119C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\album-multiply.13de58ff.webp133634714981082284 0
-112C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography.c35c2218.js133634714981102090 0
-101C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\index.html133634714981102090 0
-115C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\bibliography.941995c0.js133634714981102090 0
-107C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\tour.0ea18c61.js133634714981102090 0
-115C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\album-plus.f55580de.webp133634714981102090 0
-117C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\album-equals.8c61b12f.webp133634714981102090 0
-102C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\albums.html133634714981192093 0
-109C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\albums.ed5a059f.js133634714981192093 0
-111C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\category.c4fe499a.js133634714981192093 0
-114C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\thumbs-up.2dad4138.webp133634714981232069 0
-113C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\impact.a029f31f.js.map133634714981232069 0
-113C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\index.4d663569.css.map133634714981242084 0
-112C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\index.44983732.js.map133634714981302068 0
-115C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\category.c4fe499a.js.map133634714981302068 0
+123C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\assets\img\biography-image-small.webp133634717566440464 0
+118C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\guitar-favicon.47ed29a6.svg133634717861613870 0
+114C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\thumbs-up.2dad4138.webp133634717861759321 0
+101C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\index.html133634717861844492 0
+115C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\bibliography.941995c0.js133634717861844492 0
+107C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\tour.0ea18c61.js133634717861844492 0
+112C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography.c35c2218.js133634717861844492 0
+115C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\album-plus.f55580de.webp133634717861884501 0
+117C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\album-equals.8c61b12f.webp133634717861884501 0
+126C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\biography-image-small.6af734c8.webp133634717861884501 0
+119C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\album-multiply.13de58ff.webp133634717862004681 0
+102C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\albums.html133634717862044847 0
+109C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\albums.ed5a059f.js133634717862044847 0
+111C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\category.c4fe499a.js133634717862044847 0
+113C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\index.4d663569.css.map133634717862150178 0
+112C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\index.44983732.js.map133634717862150178 0
+113C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\impact.a029f31f.js.map133634717862150178 0
+115C:\Users\miche\Documents\UOC\SEM3\Herramientas-HTML-CSS\PEC3\vida-y-musica-ed-sheeran\dist\category.c4fe499a.js.map133634717862160175 0
