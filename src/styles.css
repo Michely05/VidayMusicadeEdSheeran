@@ -295,6 +295,18 @@ footer {
   font-size: 1.2rem;
   text-align: justify;
 }
+
+.impact-container .youtube-placeholder {
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 4rem auto;
+  width: 800px;
+  height: 450px;
+}
+
 .impact-container iframe {
   margin: 4rem auto;
   width: 800px;
@@ -651,6 +663,17 @@ footer {
     height: 200px;
     display: flex;
     justify-content: center;
+  }
+
+  .impact-container .youtube-placeholder {
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+    width: 300px;
+    height: 200px;
   }
 
   .tour-container {
